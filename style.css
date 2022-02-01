@@ -1,0 +1,37 @@
+body {
+    background-color: greenyellow;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    color: blue;
+    width: 100%;
+    background-color: rgb(255, 248, 220);
+}
+
+#your_sketch, #confidence {
+    font-size: 28px;
+    color: black;
+    font-family: fantasy;
+}
+
+#sketch_to_be_drawn {
+    font-size: 28px;
+    color: red;
+    font-family: fantasy;
+}
+
+#score {
+    font-size: 28px;
+    font-family: fantasy;
+    margin-right: 90%;
+}
+
+#timer {
+    font-size: 28px;
+    font-family: fantasy;
+    margin-left: 90%;
+}
